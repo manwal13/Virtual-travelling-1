@@ -1,7 +1,7 @@
 pannellum.viewer('panorama', {
     "default": {
         "firstScene": "scene1",
-        "autoLoad": true,
+        "autoLoad": false,
         "sceneFadeDuration": 1000
     },
     "scenes": {
@@ -108,7 +108,7 @@ pannellum.viewer('panorama', {
         },
         "scene0":{
             "type":"equirectangular",
-            "panorama": "HOSP.JPG",
+            "panorama": "HOSP.jpg",
             "hotSpots" :[
                 {
                 "pitch":-5,
@@ -177,7 +177,7 @@ pannellum.viewer('panorama', {
                     "yaw": -75,
                     "type": "scene",
                     "text": "HIMALAYAN SCHOOL OF SCIENCE AND TECHNOLOGY",
-                    "sceneId": "scene0"
+                    "sceneId": "scene7"
                 },
                 {
                     "pitch": 7,
