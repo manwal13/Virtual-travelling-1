@@ -1,6 +1,6 @@
 pannellum.viewer('panorama', {
     "default": {
-        "firstScene": "scene1",
+        "firstScene": "scene3",
         "autoLoad": false,
         "sceneFadeDuration": 1000
     },
