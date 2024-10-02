@@ -196,15 +196,13 @@ pannellum.viewer('panorama', {
                     "pitch": -1.4,
                     "yaw": 103,
                     "type": "info",
-                    "text": "Hello......",
-                    "sceneId": "info"
+                    "text": "Hello......"
                 },
                 {
                     "pitch": 7,
                     "yaw": 50,
                     "type": "info",
                     "text": "HIMALAYAN HOSPITAL Parking Area",
-                    "sceneId": "info"
                 }
             ]
         },
